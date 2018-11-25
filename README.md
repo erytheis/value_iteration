@@ -1,2 +1,2 @@
-# value_iteration
+# Value iteration
 Value Iteration (Hanoi Tower)
